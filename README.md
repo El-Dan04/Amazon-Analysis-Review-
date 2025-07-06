@@ -53,3 +53,9 @@ These business questions were answered using PivotTables, charts, helper columns
 - Top Performing Products: Products that rank highest in both rating and number of reviews tend to be in electronics and smartphone categories.
 - Category Revenue Trends: Categories like Mobiles and Laptops generate significantly more potential revenue based on actual price × review count.
 
+These insights enable stakeholders to make better marketing, pricing, and inventory decisions based on customer feedback, price sensitivity, and product popularity.
+
+## Dashboard Screenshots
+## Full Dashboard Overview
+
+
