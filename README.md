@@ -46,15 +46,10 @@ These business questions were answered using PivotTables, charts, helper columns
 14. Identify the top 5 products in terms of rating and number of reviews combined.
 
 
+## Key Insights from the Dashboard
 
-KPI Summary (from Excel Dashboard)
-
-Metric	 Value	Insight
-Total    Products	1350	Unique products analyzed
-Number of Product name and Products ID	1350	Suggests product name and product id duplication; cleaned during processing
-Total Potential Revenue	₹ 14B+	Based on price × review count
-Average Rating Overall	4.09	Indicates high customer satisfaction
-Total Reviews	2,380,431	High engagement from users
-Average Discount	47%	Aggressive discounting across most products
-Products with ≥50% Discount	602	Nearly half of all products are heavily discounted
+- High Discount Prevalence: Nearly half of all products (over 600) have discounts of 50% or more, suggesting aggressive price-cutting as a competitive strategy.
+- Customer Engagement: The dataset shows over 2.3 million reviews across all products, with an average rating above 4.0, indicating strong user activity and overall product satisfaction.
+- Top Performing Products: Products that rank highest in both rating and number of reviews tend to be in electronics and smartphone categories.
+- Category Revenue Trends: Categories like Mobiles and Laptops generate significantly more potential revenue based on actual price × review count.
 
