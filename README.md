@@ -59,3 +59,40 @@ These insights enable stakeholders to make better marketing, pricing, and invent
 ## Full Dashboard Overview
 
 
+![Amazon CS analysis](https://github.com/user-attachments/assets/ef425cd2-5960-4a0c-b004-3f90b1a200a0)
+
+![Amazon CS analysis 2](https://github.com/user-attachments/assets/c0cdce57-942b-4b5b-94d5-1dfb6d5fe5c5)
+
+
+![Amazon CS analysis 3](https://github.com/user-attachments/assets/7cc44632-3003-4370-9c89-b5f38247e6eb)
+
+
+![AMZ report 1](https://github.com/user-attachments/assets/54476800-0891-4598-b84c-3305c9d91f93)
+
+
+![amz 1](https://github.com/user-attachments/assets/83d17b15-e63b-4934-9dad-c3a7125df9f2)
+
+
+![AMZ 3](https://github.com/user-attachments/assets/d7acbc00-c4ca-4220-b354-3792b6922b47)
+
+
+![AMZ 4](https://github.com/user-attachments/assets/b7463edd-247f-4f84-a125-0da7b363a2e6)
+
+
+
+![Amz 5](https://github.com/user-attachments/assets/7d9b8cc5-bd1d-4cb8-b8ad-1b3d4d95fd62)
+
+
+## Tools Used
+- Pivot Tables
+- Bar chart
+- column chart
+- Helper Columns & Logical Formulas
+
+
+
+
+
+
+
+
