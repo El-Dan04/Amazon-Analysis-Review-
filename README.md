@@ -90,6 +90,12 @@ These insights enable stakeholders to make better marketing, pricing, and invent
 - Helper Columns & Logical Formulas
 
 
+## Conclusion
+
+## Data Source
+This project was completed using data provided by:
+Digital Skill Africa (The Incubator Hub).
+
 
 
 
