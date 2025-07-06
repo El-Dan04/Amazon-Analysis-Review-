@@ -45,3 +45,16 @@ These business questions were answered using PivotTables, charts, helper columns
 13. Which categories have products with the highest discounts?
 14. Identify the top 5 products in terms of rating and number of reviews combined.
 
+
+
+KPI Summary (from Excel Dashboard)
+
+Metric	 Value	Insight
+Total    Products	1350	Unique products analyzed
+Number of Product name and Products ID	1350	Suggests product name and product id duplication; cleaned during processing
+Total Potential Revenue	₹ 14B+	Based on price × review count
+Average Rating Overall	4.09	Indicates high customer satisfaction
+Total Reviews	2,380,431	High engagement from users
+Average Discount	47%	Aggressive discounting across most products
+Products with ≥50% Discount	602	Nearly half of all products are heavily discounted
+
